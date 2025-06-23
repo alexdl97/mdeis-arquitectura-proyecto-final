@@ -7,6 +7,10 @@ OpenMarket es una **plataforma de comercio electrónico multi-proveedor** que co
 El siguiente repositorio representa la arquitectura del proyecto o software Open Market Software,
 el cual para efectos practicos todo el proyecto estará en 1 solo repositorio.
 
+## Documento
+En el siguiente enlace se encuentra el documento del proyecto.  
+[documentación](https://docs.google.com/document/d/1-7eKTFrHBeJBRzHGsDoVyiSrcUkov68Cv0b6OtMu8ck/edit?usp=sharing)
+
 ## Estructura del Repositorio Principal: OpenMarket-Software
 
 Este repositorio contiene la implementación del sistema **Open Market Software** basado en microservicios.
